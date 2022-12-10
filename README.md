@@ -1,2 +1,2 @@
 # RARA
-find candidates eligible for recruitment through their resumes automatically. 
+find candidates eligible for recruitment from 1000's of resumes automatically. 
